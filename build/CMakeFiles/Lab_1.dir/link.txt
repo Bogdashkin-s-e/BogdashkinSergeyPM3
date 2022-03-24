@@ -1,1 +1,0 @@
-/bin/x86_64-linux-gnu-g++-9  -g  -rdynamic CMakeFiles/Lab_1.dir/src/Army.cpp.o CMakeFiles/Lab_1.dir/src/Infantry.cpp.o CMakeFiles/Lab_1.dir/src/Tank.cpp.o CMakeFiles/Lab_1.dir/src/Technic.cpp.o CMakeFiles/Lab_1.dir/src/Unit.cpp.o CMakeFiles/Lab_1.dir/src/WarPlane.cpp.o CMakeFiles/Lab_1.dir/src/main.cpp.o CMakeFiles/Lab_1.dir/src/soldier.cpp.o  -o Lab_1 
