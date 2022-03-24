@@ -1,0 +1,3 @@
+/home/sergey/Desktop/GIT/BogdashkinSergeyPM3/build/CMakeFiles/rebuild_cache.dir
+/home/sergey/Desktop/GIT/BogdashkinSergeyPM3/build/CMakeFiles/edit_cache.dir
+/home/sergey/Desktop/GIT/BogdashkinSergeyPM3/build/CMakeFiles/Lab_1.dir
