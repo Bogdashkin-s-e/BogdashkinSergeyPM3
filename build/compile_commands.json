@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/Army.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Army.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Army.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/Infantry.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Infantry.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Infantry.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/Tank.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Tank.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Tank.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/Technic.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Technic.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Technic.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/Unit.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Unit.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/Unit.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/WarPlane.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/WarPlane.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/WarPlane.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/main.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/main.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/main.cpp"
+},
+{
+  "directory": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/hdrs  -g   -o CMakeFiles/Lab_1.dir/src/soldier.cpp.o -c /home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/soldier.cpp",
+  "file": "/home/sergey/Desktop/GITT/BogdashkinSergeyPM3/src/soldier.cpp"
+}
+]
